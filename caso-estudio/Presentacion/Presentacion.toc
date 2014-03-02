@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Generalidades}{7}{0}{1}
+\beamer@sectionintoc {2}{Objetivo}{11}{0}{2}
+\beamer@sectionintoc {3}{Metodolog\IeC {\'\i }a}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Recolecci\IeC {\'o}n de Informaci\IeC {\'o}n}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Implementaci\IeC {\'o}n de la Ontolog\IeC {\'\i }a}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{Creaci\IeC {\'o}n de instancias}{32}{0}{3}
+\beamer@subsectionintoc {3}{4}{Construcci\IeC {\'o}n de la Aplicaci\IeC {\'o}n}{33}{0}{3}
+\beamer@subsectionintoc {3}{5}{Ejecuci\IeC {\'o}n de Pruebas}{36}{0}{3}
+\beamer@sectionintoc {4}{Productos Obtenidos}{44}{0}{4}
+\beamer@sectionintoc {5}{Bibliograf\IeC {\'\i }a}{45}{0}{5}
